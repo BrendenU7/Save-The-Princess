@@ -1,2 +1,2 @@
 # Save-The-Princess
-Simple rpg game
+Simple rpg game for January 2024 school project 
